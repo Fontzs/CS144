@@ -31,13 +31,7 @@
 
 ### Lab0
 
-![](README.assets/class_socket__inherit__graph.png)
-
-
-
-
-
-
+![](image/class_socket__inherit__graph.png)
 
 
 
