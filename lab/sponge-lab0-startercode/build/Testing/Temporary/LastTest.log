@@ -1,0 +1,22 @@
+Start testing: Mar 08 10:56 CST
+----------------------------------------------------------
+31/169 Testing: t_webget
+31/169 Test: t_webget
+Command: "/home/ubuntu/CS/CS144/lab/sponge-lab0-startercode/tests/webget_t.sh"
+Directory: /home/ubuntu/CS/CS144/lab/sponge-lab0-startercode/build
+"t_webget" start time: Mar 08 10:56 CST
+Output:
+----------------------------------------------------------
+HTTP/1.1 200 OK
+Content-type: text/plain
+
+7SmXqWkrLKzVBCEalbSPqBcvs11Pw263K7x4Wv3JckI
+<end of output>
+Test time =   0.93 sec
+----------------------------------------------------------
+Test Passed.
+"t_webget" end time: Mar 08 10:56 CST
+"t_webget" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 08 10:56 CST
